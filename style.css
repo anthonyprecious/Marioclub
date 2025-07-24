@@ -1,0 +1,72 @@
+/*css reset*/
+*{
+    padding: 0;
+    margin: 0;
+    font-family: cursive;
+}
+
+div.header-container{
+    background-color: red;
+    text-align: center;
+    padding: 30px;
+}
+
+div.header-container h1{
+    color: white;
+    border: 4px white solid;
+    display: inline;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+div.nav-bar{
+    background-color: grey;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+div.nav-bar a{
+    color: white;
+    margin-right: 130px;
+    margin-left: 130px;
+    text-decoration: none;
+}
+
+div.banner img {
+    width: 100%;
+    border-bottom:5px red solid;
+
+}
+
+div.about_mario{
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 20px;
+
+}
+div.about_mario h1{
+    text-align: center;
+    color: red;
+    font-family: cursive;
+}
+
+div.about_mario p{
+    color:black;
+    font-family: cursive;
+    text-align: justify;
+    font-size: 20px;
+    line-height: 40px;
+
+}
+
+footer.foot{
+    background-color: grey;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding: 25px;
+    margin-top: 30px;
+    
+}
+
