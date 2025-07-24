@@ -70,3 +70,23 @@ footer.foot{
     
 }
 
+/*gallery*/
+h1.top{
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+div.Gallery{
+    text-align: center;
+
+}
+
+div.Gallery img{
+    width: 45%;
+    margin: 10px;
+    border-bottom: red 10px solid;
+}
+
