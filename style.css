@@ -63,7 +63,7 @@ footer.foot{
     color: white;
     font-size: 20px;
     padding: 25px;
-    margin-top: 30px;
+    /* margin-top: 30px; */
 }
 
 /*gallery*/
@@ -125,4 +125,34 @@ div.friend p{
 
 /*Contact */
 
+div.banner{
+    position: relative;
+}
 
+div.form_container{
+    position: absolute;
+    left: 40px;
+    top: 40px;
+}
+form{
+    background-color: lightgrey;
+    border-radius: 20px;
+    padding: 40px;
+} 
+
+input{
+    font-size: 30px;
+}
+
+textarea{
+font-size: 30px; 
+}
+
+
+button{
+    font-size: 15px;
+    background-color: red;
+    color: white;
+    padding: 15px;
+
+}

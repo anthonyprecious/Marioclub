@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact -Marioclub</title>
+     <link rel="stylesheet" href="style.css">
+</head>
+<body>
+     
+</head>
+<body> <div class="header-container">
+        <h1>Mario Adventure Club</h1>
+    </div>
+    <div class="nav-bar">
+        <a href="index.html">Home</a>
+        <a href="Friends">Friends</a>
+        <a href="Gallery">Gallery</a>
+        <a href="Contact">Contact</a>
+    </div>
+    <div class="banner">
+        <img src="images/banner.png" alt="">
+
+       <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+<body>
+    <div class="header-container">
+        <h1>Mario Adventure Club</h1>
+    </div>
+    <div class="nav-bar">
+        <a href="index.html">Home</a>
+        <a href="Friends">Friends</a>
+        <a href="Gallery">Gallery</a>
+        <a href="Contact">Contact</a>
+    </div>
+    <form action="info">
+        <div class="in">
+        <div>
+        <input type="text" id="first-name" placeholder="your name">
+        
+        <label for=""></label>
+        <input type="email" id="" placeholder="your email"><br> <br>
+        </div>   
+        
+        <textarea name="description" id="about_self" cols="30" rows="10"></textarea> <br> <br>
+        <input type="text" id="your message">
+        <label for="submit" id="submit"> </label><br>
+
+
+
+
+
+
+
+    </div>
+    </div>
+
+
+    </form>
+    <footer class="foot">&copy;2025 Anthony</footer>
+
+</body>
+</html>
+</header>
+</body>
+</html>
+
+
+<div class="in">
+        <div class="infor">
+        <input type="text" id="name" placeholder="your name">
+        <input type="email" id="" placeholder="your email"><br> <br>
+        <textarea name="description" id="about_self" cols="30" rows="10"></textarea> <br> <br>
+        </div> 
+        <button >Submit</button> 
+    </form>
