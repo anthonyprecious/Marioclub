@@ -23,8 +23,7 @@ div.nav-bar{
     background-color: grey;
     padding: 20px;
     text-align: center;
-    
-}
+    }
 
 div.nav-bar a{
     color: white;
@@ -43,7 +42,6 @@ div.about_mario{
     margin-right: 100px;
     margin-left: 100px;
     margin-top: 20px;
-
 }
 div.about_mario h1{
     text-align: center;
@@ -57,7 +55,6 @@ div.about_mario p{
     text-align: justify;
     font-size: 20px;
     line-height: 40px;
-
 }
 
 footer.foot{
@@ -67,7 +64,6 @@ footer.foot{
     font-size: 20px;
     padding: 25px;
     margin-top: 30px;
-    
 }
 
 /*gallery*/
@@ -89,4 +85,44 @@ div.Gallery img{
     margin: 10px;
     border-bottom: red 10px solid;
 }
+
+/*Friends */
+div.intro h1{
+    text-align: center;
+    font-size: 50px;
+    color: red;
+    margin-top: 20px;
+
+}
+
+div.intro p{
+    text-align: center;
+    font-size: 30px;
+}
+
+div.mario_friends{
+    text-align: center;
+    margin:30px 80px;
+    
+}
+
+div.friend{
+    background-color: lightgrey;
+    border-radius: 20px;
+    font-size: 30px;
+    padding: 50px;
+    margin: 30px 0px;
+}
+
+div.friend h2{
+    color:red;
+    font-size: 30px;
+}
+div.friend p{
+    line-height: 60px;
+    text-align: justify;
+}
+
+/*Contact */
+
 
